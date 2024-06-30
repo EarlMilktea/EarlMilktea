@@ -4,10 +4,17 @@
 
 **50 % Physics, 50 % Programming.**
 
-- computational physics 🎓
-- Monte Carlo methods 🎲
-- library development 📦
-- refactoring/optimization ⚡
+🎓 computational physics
+
+🎲 quantum Monte Carlo
+
+🔢 tensor network
+
+⚡ high-performance computing
+
+📦 library development
+
+♻ refactoring/optimization
 
 ## Skills:
 
