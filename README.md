@@ -25,4 +25,4 @@
 
 ### OSS Contributions:
 
-<img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="48" alt="psf" />  <img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" width="48" alt="qiskit" /> <img src="https://avatars.githubusercontent.com/u/3637556?s=200&v=4" width="48" alt="dt" /> <img src="https://avatars.githubusercontent.com/u/114573649?s=200&v=4" width="48" alt="graphix" />
+<img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="48" alt="psf" />  <img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" width="48" alt="qiskit" /> <img src="https://avatars.githubusercontent.com/u/3637556?s=200&v=4" width="48" alt="dt" /> <img src="https://avatars.githubusercontent.com/u/18019456?s=200&v=4" width="48" alt="fixstars" /> <img src="https://avatars.githubusercontent.com/u/114573649?s=200&v=4" width="48" alt="graphix" />
