@@ -25,4 +25,31 @@
 
 ### OSS Contributions:
 
-<img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="48" alt="psf" />  <img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" width="48" alt="qiskit" /> <img src="https://avatars.githubusercontent.com/u/3637556?s=200&v=4" width="48" alt="dt" /> <img src="https://avatars.githubusercontent.com/u/18019456?s=200&v=4" width="48" alt="fixstars" /> <img src="https://avatars.githubusercontent.com/u/114573649?s=200&v=4" width="48" alt="graphix" />
+<a href="https://github.com/psf/black"><img
+    src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4"
+    width="48"
+    alt="psf"
+/></a>
+<a href="https://github.com/Qiskit"><img
+    src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4"
+    width="48"
+    alt="qiskit"
+/></a>
+<a href="https://github.com/DefinitelyTyped/DefinitelyTyped">
+  <img
+    src="https://avatars.githubusercontent.com/u/3637556?s=200&v=4"
+    width="48"
+    alt="dt" />
+</a>
+<a href="https://github.com/fixstars/libSGM">
+  <img
+    src="https://avatars.githubusercontent.com/u/18019456?s=200&v=4"
+    width="48"
+    alt="fixstars" />
+</a>
+<a href="https://github.com/TeamGraphix/graphix">
+  <img
+    src="https://avatars.githubusercontent.com/u/114573649?s=200&v=4"
+    width="48"
+    alt="graphix" />
+</a>
