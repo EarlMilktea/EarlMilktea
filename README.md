@@ -41,6 +41,12 @@
     width="48"
     alt="dt" />
 </a>
+<a href="https://github.com/cupy/cupy">
+  <img
+    src="https://avatars.githubusercontent.com/u/23187665?s=48&v=4"
+    width="48"
+    alt="cupy" />
+</a>
 <a href="https://github.com/fixstars/libSGM">
   <img
     src="https://avatars.githubusercontent.com/u/18019456?s=200&v=4"
