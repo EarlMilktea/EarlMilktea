@@ -17,11 +17,11 @@
 
 ### Tier 1:
 
-![tier1](https://skillicons.dev/icons?i=cpp,python,julia,neovim,arch,git,github,githubactions,latex)
+![tier1](https://skillicons.dev/icons?i=python,git,rust,julia,neovim,arch,github,githubactions,latex)
 
 ### Tier 2:
 
-![tier2](https://skillicons.dev/icons?i=docker,rust,ubuntu,cmake,gitlab,ts,js,wasm,react)
+![tier2](https://skillicons.dev/icons?i=cpp,ubuntu,cmake,gitlab,docker,ts,js,wasm,react)
 
 ### OSS Contributions:
 
