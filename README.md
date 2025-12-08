@@ -13,8 +13,6 @@
 
 ## Skills:
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarlMilktea&layout=compact&theme=solarized-dark)
-
 ### Tier 1:
 
 ![tier1](https://skillicons.dev/icons?i=python,git,rust,julia,neovim,arch,github,githubactions,latex)
